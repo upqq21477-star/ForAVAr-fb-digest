@@ -1,7 +1,7 @@
 # ForAVAr-fb-digest
 
-用手機或對話設計自己的日報與週報，將選定來源、目的與出報規則帶到自己的 AI 專案。
+[開啟個人日報編輯室](https://foravar-digest-studio.vinousfolio7.chatgpt.site)
 
-[手機互動樣稿](prototype/index.html) 可下載後用瀏覽器開啟，試用刊物、來源與指示預覽。樣稿在本機處理，實際來源試讀待建。
+在手機選擇刊物、勾選社團並複製個人專案指示。初次設定可從截圖或社團名稱開始，信箱沒有通知也能建名單。讀取正文及帳號連線另行試讀。
 
-[閱讀建設藍圖](docs/BLUEPRINT.md)，查看預定操作流程、施工順序與驗收條件。
+[頁面原始檔](prototype/index.html) · [建設藍圖](docs/BLUEPRINT.md)
